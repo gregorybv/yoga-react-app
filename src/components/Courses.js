@@ -4,7 +4,7 @@ import { BsStarFill, BsStarHalf } from "react-icons/bs"
 
 const Courses = () => {
   return (
-    <section className='section-sm lg:section-lg' id="courses">
+    <section className='section-sm lg:section-lg'>
       <div className='container mx-auto'>
         {/* text */}
         <div className='text-center mb-16 lg:mb-32'>
@@ -25,7 +25,10 @@ const Courses = () => {
           </p>
         </div>
 
-        <div className='flex flex-col lg:flex-row lg:gap-x-[33px] gap-y-24 mb-7 lg:mb-14'>
+        <div
+          className='flex flex-col lg:flex-row lg:gap-x-[33px] gap-y-24 mb-7 lg:mb-14'
+          id='courses'
+        >
           {courses.map((item, index) => {
             const { image, title, desc, link, delay } = item
             return (
