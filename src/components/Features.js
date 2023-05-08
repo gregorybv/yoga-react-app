@@ -1,8 +1,8 @@
 import React, { useState } from "react"
 
 // import modal video from react-modal video
-import ModalVideo from "react-modal-video"
-import "../video.scss"
+// import ModalVideo from "react-modal-video"
+// import "../video.scss"
 import { BsPlayCircleFill } from "react-icons/bs"
 
 const Features = () => {
@@ -40,13 +40,13 @@ const Features = () => {
         </div>
       </div>
       {/* video */}
-      <ModalVideo
+      {/* <ModalVideo
         channel='youtube'
         autoplay
         isOpen={isOpen}
         videoId='klmBssEYkdU'
         onClose={() => setOpen(false)}
-      />
+      /> */}
     </section>
   )
 }
