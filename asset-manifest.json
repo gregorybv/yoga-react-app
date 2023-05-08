@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/yoga-react-app/static/css/main.8f517caa.css",
-    "main.js": "/yoga-react-app/static/js/main.66190cac.js",
+    "main.js": "/yoga-react-app/static/js/main.6330c615.js",
     "static/media/irom_man.png": "/yoga-react-app/static/media/irom_man.da887a56cbf93f6ac428.png",
     "static/media/video.png": "/yoga-react-app/static/media/video.b3bbf1eea77a9690f5f5.png",
     "static/media/woman.png": "/yoga-react-app/static/media/woman.7a4e37774c0db6006064.png",
@@ -14,10 +14,10 @@
     "static/media/card-1.png": "/yoga-react-app/static/media/card-1.c79b2103bcdbeb965ec8.png",
     "index.html": "/yoga-react-app/index.html",
     "main.8f517caa.css.map": "/yoga-react-app/static/css/main.8f517caa.css.map",
-    "main.66190cac.js.map": "/yoga-react-app/static/js/main.66190cac.js.map"
+    "main.6330c615.js.map": "/yoga-react-app/static/js/main.6330c615.js.map"
   },
   "entrypoints": [
     "static/css/main.8f517caa.css",
-    "static/js/main.66190cac.js"
+    "static/js/main.6330c615.js"
   ]
 }
