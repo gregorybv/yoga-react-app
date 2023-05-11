@@ -1,29 +1,7 @@
-// import icons
 import { BsCheck, BsChevronRight } from 'react-icons/bs';
-
-// import images
 import CourseImage1 from '../src/assets/img/courses/course-1.png';
 import CourseImage2 from '../src/assets/img/courses/course-2.png';
 import CourseImage3 from '../src/assets/img/courses/course-3.png';
-
-// export const navigation = [
-//   {
-//     name: 'Home',
-//     href: '/',
-//   },
-//   {
-//     name: 'Classes',
-//     href: '/courses',
-//   },
-//   {
-//     name: 'Features',
-//     href: '#',
-//   },
-//   {
-//     name: 'Contact',
-//     href: '#',
-//   },
-// ];
 
 export const facts = [
   {
